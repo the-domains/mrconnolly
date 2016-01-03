@@ -1,14 +1,28 @@
+name: mrconnolly
+favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.8340425
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3072473
-  lightness: 0.9543211
-  brandStrength: 0.4042553
   brandColors:
     - '#200B0B'
     - '#D7B5A1'
     - '#6E4A43'
     - '#C6782E'
     - '#5C2715'
-  rhythmicContrast: 0.1119474
-name: mrconnolly
+  brandStrength: 0.4375
+  lightness: 0.5625
+  saturation: 0.1875
+  rhythmicContrast: 0.5
+purpose: []
