@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[mrconnolly]]></title>
         <description><![CDATA[mrconnolly]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mrconnolly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 19:45:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 01:37:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mrconnolly/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Complete your writing project through planning, text reminders and accountability.</p>]]></description>
-            <link>undefinedb9180d9b-ca98-416d-a0ba-00dd3ecb66be/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7ecce3b-0b8a-47c3-b1ea-beed071e7799.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/mrconnolly/b9180d9b-ca98-416d-a0ba-00dd3ecb66be/index.html</link>
             <guid isPermaLink="false">b9180d9b-ca98-416d-a0ba-00dd3ecb66be</guid>
-            <pubDate>Sat, 02 Jan 2016 19:45:02 GMT</pubDate>
+            <pubDate>Sun, 03 Jan 2016 01:37:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
