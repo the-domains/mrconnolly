@@ -1,6 +1,6 @@
 name: mrconnolly
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.85095
 typography_spectrum: 0.8340425
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#200B0B'
-    - '#D7B5A1'
-    - '#6E4A43'
-    - '#C6782E'
-    - '#5C2715'
+    - '#dee0df'
+    - '#160400'
+    - '#c0baa8'
+    - '#4f5559'
+    - '#b3633f'
   brandStrength: 0.4375
-  lightness: 0.5625
-  saturation: 0.1875
+  lightness: 0.6875
+  saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []
